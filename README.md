@@ -1,12 +1,11 @@
 # Hello, World!
 
 
-- I'm Manigandan
-- I love mathematics and Computer Science.
-- 🌱 I’m currently learning Flutter and Dart.
-
-:technologist: Oh, boy! I need a better intro.
+- 👽 I'm Manigandan.
+- 🎹 I love Mathematics and Computer Science
+- 🌱 currently learning Flutter and music theory.
 
 
 📫 How to reach me: [ Twitter ](https://twitter.com/manigandancodes)
 
+:technologist: Oh, boy! I need a better intro.
