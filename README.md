@@ -6,6 +6,6 @@
 - 🌱 currently learning Flutter and music theory.
 
 
-📫 How to reach me: [ Twitter ](https://twitter.com/manigandancodes)
+📫 You can reach me via [ Twitter ](https://twitter.com/manigandancodes)
 
-:technologist: Oh, boy! I need a better intro.
+*:technologist: Oh, boy! I need a better intro, come back later, I might find a better intro.*
